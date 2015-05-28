@@ -5,10 +5,6 @@
 
 package br.com.lollypop.accounting;
 
-/**
- *
- * @author Travers
- */
 public class AccountingException extends Exception {
 
     public AccountingException(Throwable cause) {

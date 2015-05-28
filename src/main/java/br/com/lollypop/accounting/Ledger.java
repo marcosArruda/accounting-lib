@@ -13,8 +13,6 @@ import java.util.Map;
 
 /**
  * Represents a set of accounts and their transactions.
- *
- * @author Travers
  */
 public class Ledger {
     private Map<String, Account> accounts;

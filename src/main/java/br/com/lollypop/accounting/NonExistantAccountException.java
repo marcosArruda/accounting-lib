@@ -7,7 +7,6 @@ package br.com.lollypop.accounting;
 
 /**
  *
- * @author Travers
  */
 public class NonExistantAccountException extends AccountingException {
 

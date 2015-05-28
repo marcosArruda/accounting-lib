@@ -11,8 +11,6 @@ import java.util.List;
 
 /**
  * A group of related account entries
- *
- * @author Travers
  */
 public class Posting {
     private Ledger ledger;

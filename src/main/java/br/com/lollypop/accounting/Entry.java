@@ -7,8 +7,6 @@ package br.com.lollypop.accounting;
 
 /**
  * An entry against an account.
- *
- * @author Travers
  */
 public class Entry {
     private Posting posting;
