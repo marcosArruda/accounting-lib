@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package simpleaccounting;
+package br.com.lollypop.accounting;
 
 /**
  * An entry against an account.

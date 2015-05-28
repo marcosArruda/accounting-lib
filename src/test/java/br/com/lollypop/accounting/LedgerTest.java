@@ -2,11 +2,13 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package simpleaccounting;
+package br.com.lollypop.accounting;
 
-import simpleaccounting.Account.Type;
+import br.com.lollypop.accounting.*;
+import br.com.lollypop.accounting.Account.Type;
 import java.util.Date;
 import static org.junit.Assert.*;
+
 import org.junit.Before;
 import org.junit.Test;
 

@@ -3,7 +3,7 @@
  * and open the template in the editor.
  */
 
-package simpleaccounting;
+package br.com.lollypop.accounting;
 
 /**
  * Exception thrown with an unbalanced Posting was attempted to be posted.

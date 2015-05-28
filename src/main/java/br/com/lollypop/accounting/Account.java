@@ -3,11 +3,10 @@
  * and open the template in the editor.
  */
 
-package simpleaccounting;
+package br.com.lollypop.accounting;
 
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
